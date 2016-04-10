@@ -12,3 +12,5 @@ https://docs.oracle.com/javase/jp/8/docs/api/
 ある程度進んだら、masterにマージします。  
 その後、定期的にgh-pagesにマージ作業。  
 なお、gh-pagesの内容がhttp://mcuserjp.github.io/spigotapi_javadoc/ になります。
+
+テスト
